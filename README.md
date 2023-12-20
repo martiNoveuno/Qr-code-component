@@ -15,11 +15,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
+**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 ## Overview
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](screenshot.png)
 
 ### Links
 
@@ -29,3 +31,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## My process
 
 ### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+### What I learned
+
+### Continued development
+
+### Useful resources
+
+## Author
+
+- Frontend Mentor - [@martiNoveuno](https://www.frontendmentor.io/profile/martiNoveuno)
+
+## Acknowledgments
